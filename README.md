@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JadeLizMendes
-- 👀 I’m interested in bioinformatics, python and RNAseq analysis 
+- 👀 I’m interested in fragment screening / drug discovery
 - 🌱 I’m currently learning python, R and C#
 - 💞️ I’m looking to collaborate on pipelines in bioinformatics
 - 📫 jadelizmendes@gmail.com
